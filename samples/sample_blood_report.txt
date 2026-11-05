@@ -1,0 +1,15 @@
+CITY DIAGNOSTICS LAB - SAMPLE REPORT (fictional, for testing)
+Patient: Test Patient   Age/Sex: 38 / M   Date: 01-11-2026
+
+TEST                      RESULT      UNIT       REFERENCE RANGE
+Haemoglobin               12.1        g/dL       13.0 - 17.0
+Fasting Blood Sugar       112         mg/dL      70 - 100
+HbA1c                     6.1         %          < 5.7
+Total Cholesterol         232         mg/dL      < 200
+LDL Cholesterol           158         mg/dL      < 100
+HDL Cholesterol           36          mg/dL      > 40
+Triglycerides             210         mg/dL      < 150
+Vitamin D (25-OH)         14          ng/mL      30 - 100
+Vitamin B12               180         pg/mL      200 - 900
+TSH                       2.4         uIU/mL     0.4 - 4.0
+Creatinine                0.9         mg/dL      0.7 - 1.3
